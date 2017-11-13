@@ -1,0 +1,12 @@
+run:
+ScheduleSim 1.3.0
+Running self test...
+
+Running Tests:
+
+testing EXPR_2
+ScheduleSim Experiment Results
+FastTrack,Opp,65 <-make, 0.44534357661118223 <-,util 3.352409638554217,9.9,7.625,7.5,10.7,10.25,9.9,8.625,8.1,9.9375,
+SUCCESS
+
+BUILD SUCCESSFUL (total time: 3 seconds)

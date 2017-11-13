@@ -1,0 +1,12 @@
+run:
+ScheduleSim 1.3.0
+Running self test...
+
+Running Tests:
+
+testing EXPR_3
+ScheduleSim Experiment Results
+Max_Min,Opp,82 <-make, 0.6903217264663052 <-,util 17.478915662650603,26.2,25.625,27.2,24.4,24.875,24.3,23.375,21.7,18.84375,
+SUCCESS
+
+BUILD SUCCESSFUL (total time: 3 seconds)

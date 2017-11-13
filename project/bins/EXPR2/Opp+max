@@ -1,0 +1,46 @@
+run:
+ScheduleSim 1.3.0
+Running self test...
+
+Running Tests:
+
+testing EXPR_2
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45193499458288194 <-,util 5.2781954887218046,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.4520736728060673 <-,util 4.14247311827957,9.341463414634147,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45214301191766004 <-,util 3.906515580736544,9.233333333333333,9.373333333333333,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45203033586132174 <-,util 2.924198250728863,9.75,9.090909090909092,9.67605633802817,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45196966413867806 <-,util 3.2682215743440235,6.055555555555555,6.0,4.888888888888889,9.072463768115941,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45206500541711825 <-,util 3.6339285714285716,9.5625,9.4375,9.0,7.8125,9.559701492537313,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45204767063922 <-,util 2.625748502994012,9.666666666666666,9.583333333333334,9.333333333333334,9.2,8.25,7.5,9.623076923076923,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.4521170097508125 <-,util 2.5150602409638556,6.6,6.0,6.0,6.0,5.7,4.7,4.0,9.592307692307692,
+
+
+ScheduleSim Experiment Results
+Max,Opp,64 <-make, 0.45214301191766 <-,util 3.513595166163142,9.7,9.625,9.6,9.3,9.25,8.5,7.875,7.4,9.65625,
+
+
+SUCCESS
+
+BUILD SUCCESSFUL (total time: 7 seconds)

@@ -1,0 +1,46 @@
+run:
+ScheduleSim 1.3.0
+Running self test...
+
+Running Tests:
+
+testing EXPR_3
+ScheduleSim Experiment Results
+FastTrack,FastTrack,78 <-make, 0.7252608151342329 <-,util 9.080223880597014,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTrack,89 <-make, 0.6370329670329671 <-,util 8.764075067024129,12.371951219512194,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTrack,99 <-make, 0.5729670329670329 <-,util 10.575070821529746,12.633333333333333,12.96,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTrack,100 <-make, 0.5676096181046677 <-,util 10.741279069767442,11.166666666666666,11.0,13.056338028169014,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTrack,89 <-make, 0.636947496947497 <-,util 8.576470588235294,9.722222222222221,12.5,11.555555555555555,12.623188405797102,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTrack,89 <-make, 0.6370085470085468 <-,util 8.789317507418398,5.25,14.0625,10.642857142857142,10.9375,13.208955223880597,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTRack,100 <-make, 0.5673920139266675 <-,util 11.012012012012011,6.0,7.083333333333333,15.0,10.0,11.75,9.916666666666666,13.338461538461539,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTRack,89 <-make, 0.6368498168498168 <-,util 8.605970149253732,7.0,7.0,15.5,12.7,10.7,11.6,9.8,12.792307692307693,
+
+
+ScheduleSim Experiment Results
+FastTrack,FastTRack,99 <-make, 0.5731538461538462 <-,util 10.736363636363636,12.4,5.75,9.7,14.8,9.625,11.8,11.25,9.4,13.421875,
+
+
+SUCCESS
+
+BUILD SUCCESSFUL (total time: 6 seconds)
